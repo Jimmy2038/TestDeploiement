@@ -1,0 +1,87 @@
+.Conteneur_photo {
+  width: 390px;
+  height: 300px;
+  border-style: solid;
+  margin-left: 8px;
+  height: auto;
+}
+
+.Vatany {
+  display: inline-flex;
+  height: auto;
+  width: auto;
+}
+
+.partie_gauche {
+  height: 46px;
+  width: 1260px;
+  display: inline-flex;
+  height: auto;
+  flex-wrap: wrap;
+}
+
+.Sary_be {
+  height: auto;
+}
+
+.Sary_kely {
+  padding-left: 120px;
+  padding-top: 36px;
+  padding-bottom: 26px;
+}
+
+.grand_photo {
+  width: 180px;
+  height: 110px;
+  margin: 15px;
+}
+
+.info_sary {
+  text-align: center;
+}
+
+.btn.btn-primary.addToCard {
+  margin-left: 140px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.tongony {
+  margin-top: auto;
+  border-width: 1px;
+  border-style: solid;
+}
+
+h4 {
+  text-align: center;
+}
+
+.contact {
+  margin-left: 30px;
+}
+
+.reseau {
+  margin-left: 100px;
+}
+
+.Conteneur_photo {
+  border-width: 1px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.partie_droite {
+  width: 290px;
+  height: 493px;
+  margin-left: 5px;
+  border-width: 1px;
+  border-style: solid;
+  margin-top: 20px;
+}
+
+.model_grand {
+  width: '237px';
+  height: '202px';
+  margin-left: '75px';
+  margin-top: '20px';
+}
